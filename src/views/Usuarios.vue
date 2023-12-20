@@ -19,7 +19,7 @@
             </v-col>
   
             <v-col cols="12" md="6">
-              <v-text-field v-model="numeroReloj" label="Número de Reloj" required></v-text-field>
+              <v-text-field v-model="numeroReloj" label="Numero" required></v-text-field>
             </v-col>
   
             <v-col cols="12">
